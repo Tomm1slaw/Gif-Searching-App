@@ -1,3 +1,5 @@
+var GIPHY_PUB_KEY = "dc6zaTOxFJmzC";
+
 App = React.createClass({
     getInitialState() {
         return {
